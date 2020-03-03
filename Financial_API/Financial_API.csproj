@@ -218,6 +218,8 @@
     <None Include="Properties\PublishProfiles\RHFinancialAPI - Web Deploy.pubxml" />
     <Content Include="Images\apple-touch-icon.png" />
     <Content Include="Images\favicon-32x32.png" />
+    <Content Include="Images\forgotKey.png" />
+    <Content Include="Images\sunsetBK.jpg" />
     <Content Include="Scripts\bootstrap-datetimepicker.js" />
     <Content Include="Scripts\bootstrap-notify.js" />
     <Content Include="Scripts\bootstrap-selectpicker.js" />
